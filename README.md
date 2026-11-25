@@ -1,8 +1,12 @@
 # Hi there, I'm Rotich Ephraim 👋
 
-**Quantitative Researcher | Software Engineer**
+**Software Developer | Problem Solver**
 
-Building scalable solutions through **quantitative research, software engineering, and innovation.**
+I’m passionate about technology and the possibilities it creates when applied to real-world problems.
+
+I enjoy learning how things work, exploring ideas, and turning challenges into practical solutions. I’m especially interested in building systems that are **useful, adaptable, and built with purpose**.
+
+Currently learning, experimenting, and building quietly — one problem at a time. 🚀
 
 ### Connect with me
 
